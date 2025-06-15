@@ -6,15 +6,20 @@ I'm mostly *Drawing boxes and stuff*
 
 ### What I love to use
 
-[![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,proxmox,linux,gitlab&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,redhat,linux,gitlab,latex)](https://skillicons.dev)
 
 ### Currently learning
 
-[![](https://skillicons.dev/icons?i=go,c,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nix,go,c)](https://skillicons.dev)
 
 ### Experimenting with
 
-[![](https://skillicons.dev/icons?i=nix,python,)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ai,python,redis)](https://skillicons.dev)
+
+### Connect with me
+
+[![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 ---    
 
 ### The truth
