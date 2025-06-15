@@ -19,4 +19,4 @@ I'm mostly drawing boxes and stuff.
 ---    
 
 ### The truth
-![image](https://github.com/user-attachments/assets/c76ccede-081b-4caa-8e1a-fea48f529e56)
+![image]([https://i.imgflip.com/7evdaa.jpg])
