@@ -1,4 +1,4 @@
-*I think we can solve that with a lambda*
+*I think we can solve that with a lambda*  
 *- A junior devops*
 
 Formed as a devops, working as a Cloud Architect.  
