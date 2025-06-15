@@ -1,8 +1,8 @@
 *i think we can solve that with a lambda*
-*- A junior DevOps*
+*- A junior devops*
 
 Formed as a devops, working as a Cloud Architect.  
-I'm mostly *Drawing boxes and stuff*  
+I'm mostly drawing boxes and stuff.  
 
 ### What I love to use
 
@@ -18,7 +18,7 @@ I'm mostly *Drawing boxes and stuff*
 
 ### Connect with me
 
-[![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/dimitri-castellucci)
 
 ---    
 
