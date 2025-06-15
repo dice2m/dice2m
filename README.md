@@ -6,11 +6,11 @@ I'm mostly drawing boxes and stuff.
 
 ### What I love to use
 
-[![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,redhat,linux,gitlab,latex)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=,kubernetes,docker,aws,azure,gcp,terraform,redhat,linux,gitlab,latex)](https://skillicons.dev)
 
 ### Currently learning
 
-[![](https://skillicons.dev/icons?i=nix,go,c)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,c,nix)](https://skillicons.dev)
 
 ### Experimenting with
 
