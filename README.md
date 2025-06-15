@@ -1,11 +1,12 @@
-*Drawing boxes and stuff*  
-*- A Cloud Architect*
+*i think we can solve that with a lambda*
+*- A junior DevOps*
 
 Formed as a devops, working as a Cloud Architect.  
+I'm mostly *Drawing boxes and stuff*  
 
 ### What I love to use
 
-[![](https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,proxmox,linux,gitlab&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,proxmox,linux,gitlab&perline=3)](https://skillicons.dev)
 
 ### Currently learning
 
