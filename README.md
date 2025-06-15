@@ -1,4 +1,4 @@
-*i think we can solve that with a lambda*
+*I think we can solve that with a lambda*
 *- A junior devops*
 
 Formed as a devops, working as a Cloud Architect.  
@@ -15,10 +15,6 @@ I'm mostly drawing boxes and stuff.
 ### Experimenting with
 
 [![](https://skillicons.dev/icons?i=ai,python,redis)](https://skillicons.dev)
-
-### Connect with me
-
-[![](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/dimitri-castellucci)
 
 ---    
 
