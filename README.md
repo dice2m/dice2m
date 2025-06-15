@@ -6,7 +6,7 @@ I'm mostly drawing boxes and stuff.
 
 ### What I love to use
 
-[![](https://skillicons.dev/icons?i=,kubernetes,docker,aws,azure,gcp,terraform,redhat,linux,gitlab,latex)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,gcp,terraform,redhat,linux,gitlab,latex)](https://skillicons.dev)
 
 ### Currently learning
 
